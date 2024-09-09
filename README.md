@@ -1,5 +1,5 @@
 ---
-title: mms-tts-eng gradio
+title: mms-tts-en/pt gradio
 emoji: 📝💬
 colorFrom: blue
 colorTo: green
