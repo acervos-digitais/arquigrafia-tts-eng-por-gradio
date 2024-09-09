@@ -1,12 +1,10 @@
 ---
-title: Mms Tts Eng Por Gradio
-emoji: 🔥
+title: mms-tts-eng gradio
+emoji: 📝💬
 colorFrom: blue
 colorTo: green
 sdk: gradio
-sdk_version: 4.43.0
+sdk_version: 4.42.0
 app_file: app.py
 pinned: false
 ---
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
