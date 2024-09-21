@@ -1,5 +1,5 @@
 ---
-title: mms-tts-en/pt gradio
+title: Arquigrafia TTS en/pt
 emoji: 📝💬
 colorFrom: blue
 colorTo: green

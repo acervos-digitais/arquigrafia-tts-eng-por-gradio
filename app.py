@@ -22,6 +22,7 @@ with gr.Blocks() as demo:
       value="one two three four",
     ),
     outputs="audio",
+    allow_flagging="never",
   )
 
   gr.Interface(
@@ -31,6 +32,7 @@ with gr.Blocks() as demo:
       value="um dois tres quatro",
     ),
     outputs="audio",
+    allow_flagging="never",
   )
 
 
